@@ -1,0 +1,24 @@
+{
+    "perguntas": [
+        {
+            "id": "1",
+            "pergunta": "Pergunta de teste?",
+            "resposta": "Resposta de teste."
+        }
+    ],
+    "calendario": [
+        {
+            "id": "1",
+            "data": "2026-11-10",
+            "evento": "Evento de teste"
+        }
+    ],
+    "equipe": [
+        {
+            "id": "1",
+            "nome": "Integrante de teste",
+            "foto": "",
+            "papel": "Papel de teste"
+        }
+    ]
+}

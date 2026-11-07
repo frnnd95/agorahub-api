@@ -1,7 +1,122 @@
 [
-    {
+     {
         "id": "1",
-        "data": "10/11/2026",
-        "evento": "Evento de teste"
+        "data": "06/07/2026",
+        "evento": "Renovação de matrícula para 2026.2 (até 13/07)"
+    },
+    {
+        "id": "2",
+        "data": "20/07/2026",
+        "evento": "Início do semestre letivo 2026.2"
+    },
+    {
+        "id": "3",
+        "data": "20/07/2026",
+        "evento": "Reajuste de matrícula em disciplinas (até 03/08)"
+    },
+    {
+        "id": "4",
+        "data": "11/08/2026",
+        "evento": "Dia do Estudante"
+    },
+    {
+        "id": "5",
+        "data": "24/08/2026",
+        "evento": "Último dia para pedir dispensa de disciplinas"
+    },
+    {
+        "id": "6",
+        "data": "26/08/2026",
+        "evento": "JIFAL – Subsequentes e Superiores (até 29/08)"
+    },
+    {
+        "id": "7",
+        "data": "29/08/2026",
+        "evento": "Sábado letivo"
+    },
+    {
+        "id": "8",
+        "data": "07/09/2026",
+        "evento": "Independência do Brasil – feriado"
+    },
+    {
+        "id": "9",
+        "data": "09/09/2026",
+        "evento": "Semana de Sistemas de Informação (até 11/09)"
+    },
+    {
+        "id": "10",
+        "data": "16/09/2026",
+        "evento": "Emancipação Política de Alagoas – feriado estadual"
+    },
+    {
+        "id": "11",
+        "data": "20/09/2026",
+        "evento": "Último dia para trancamento voluntário de matrícula"
+    },
+    {
+         "id": "12",
+        "data": "30/09/2026",
+        "evento": "Término da 1ª etapa 2026.2"
+    },
+    {
+        "id": "13",
+        "data": "01/10/2026",
+        "evento": "Início da 2ª etapa 2026.2"
+    },
+    {
+        "id": "14",
+        "data": "12/10/2026",
+        "evento": "Nossa Senhora Aparecida – feriado nacional"
+    },
+    {
+        "id": "15",
+        "data": "28/10/2026",
+        "evento": "Dia do Servidor Público – ponto facultativo"
+    },
+    {
+        "id": "16",
+        "data": "02/11/2026",
+        "evento": "Finados – feriado"
+    },
+    {
+        "id": "17",
+        "data": "15/11/2026",
+        "evento": "Proclamação da República – feriado"
+    },
+    {
+        "id": "18",
+        "data": "20/11/2026",
+        "evento": "Consciência Negra – feriado"
+    },
+    {
+        "id": "19",
+        "data": "30/11/2026",
+        "evento": "Dia do Evangélico – feriado estadual, com aula"
+    },
+    {
+        "id": "20",
+        "data": "05/12/2026",
+        "evento": "Sábado letivo"
+    },
+    {
+        "id": "21",
+        "data": "16/12/2026",
+        "evento": "Término do semestre 2026.2"
+    },
+    {
+        "id": "22",
+        "data": "17/12/2026",
+        "evento": "Provas finais e recuperação final (até 22/12)"
+    },
+    {
+        "id": "23",
+        "data": "24/12/2026",
+        "evento": "Ponto facultativo"
+    },
+    {
+        "id": "24",
+        "data": "25/12/2026",
+        "evento": "Natal – feriado"
     }
 ]

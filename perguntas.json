@@ -1,7 +1,42 @@
 [
     {
         "id": "1",
-        "pergunta": "Pergunta de teste?",
-        "resposta": "Resposta de teste."
+        "pergunta": "Quem pode usar o ÁgoraHub?",
+        "resposta": "Estudantes do IFAL com e-mail institucional, do domínio @aluno.ifal.edu.br."
+    },
+    {
+        "id": "2",
+        "pergunta": "Por que o cadastro exige o e-mail institucional?",
+        "resposta": "O ÁgoraHub é feito para estudantes do IFAL, por isso só aceita e-mails @aluno.ifal.edu.br. Depois do cadastro, você confirma o e-mail pelo link enviado e só então consegue entrar no app."
+    },
+    {
+        "id": "3",
+        "pergunta": "Quem vê os meus dados?",
+        "resposta": "Seu nome, seu curso e seus interesses são vistos pelos outros estudantes no app. Seu e-mail institucional só é visto por você e pelo responsável por um projeto do qual você é membro."
+    },
+    {
+        "id": "4",
+        "pergunta": "Quando o meu e-mail é compartilhado?",
+        "resposta": "Só quando você pede para participar de um projeto e o responsável aceita a solicitação. Antes de enviar a solicitação, o app mostra um aviso para você confirmar. Depois do aceite, o contato acontece fora do app."
+    },
+    {
+        "id": "5",
+        "pergunta": "Quantos interesses posso escolher?",
+        "resposta": "De 3 a 5, escolhidos na lista de interesses do app. Você pode alterar a escolha depois."
+    },
+    {
+        "id": "6",
+        "pergunta": "Por que uma oportunidade sumiu do Mural de Oportunidades?",
+        "resposta": "O Mural só mostra oportunidades dentro do prazo. Cada uma fica visível até as 23h59 do último dia do prazo."
+    },
+    {
+        "id": "7",
+        "pergunta": "Posso publicar uma oportunidade?",
+        "resposta": "Não. As oportunidades são cadastradas pela Equipe ÁgoraHub."
+    },
+    {
+        "id": "8",
+        "pergunta": "Como peço a correção ou a exclusão dos meus dados?",
+        "resposta": "A correção é feita pelo Editar perfil. Para pedir a exclusão, use o e-mail da Equipe ÁgoraHub, mostrado na tela Privacidade e dados."
     }
 ]

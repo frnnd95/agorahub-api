@@ -2,26 +2,31 @@
     {
         "id": "1",
         "nome": "Fernanda Tenório",
+        "foto": "https://raw.githubusercontent.com/frnnd95/agorahub-api/main/fotos/fernanda.jpg",
         "papel": "Scrum master e dev"
     },
     {
         "id": "2",
         "nome": "Jhully Walkyria",
+        "foto": "https://raw.githubusercontent.com/frnnd95/agorahub-api/main/fotos/jhully.jpg",
         "papel": "Dev"
     },
     {
         "id": "3",
         "nome": "Jousiclécia Almeida",
+        "foto": "https://raw.githubusercontent.com/frnnd95/agorahub-api/main/fotos/jousicleia.jpg",
         "papel": "Testes de acessibilidade"
     },
     {
         "id": "4",
         "nome": "Lucas Correia",
+        "foto": "https://raw.githubusercontent.com/frnnd95/agorahub-api/main/fotos/lucas.jpg",
         "papel": "Code reviewer"
     },
     {
         "id": "5",
         "nome": "Samuel Cassiano",
+        "foto": "https://raw.githubusercontent.com/frnnd95/agorahub-api/main/fotos/samuel.jpg",
         "papel": "PO e dev"
     }
 ]

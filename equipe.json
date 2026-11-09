@@ -3,13 +3,13 @@
         "id": "1",
         "nome": "Fernanda Tenório",
         "foto": "https://raw.githubusercontent.com/frnnd95/agorahub-api/main/fotos/fernanda.jpg",
-        "papel": "Scrum master e dev"
+        "papel": "Scrum master e dev mobile"
     },
     {
         "id": "2",
         "nome": "Jhully Walkyria",
         "foto": "https://raw.githubusercontent.com/frnnd95/agorahub-api/main/fotos/jhully.jpg",
-        "papel": "Dev"
+        "papel": "Dev mobile"
     },
     {
         "id": "3",
@@ -27,6 +27,6 @@
         "id": "5",
         "nome": "Samuel Cassiano",
         "foto": "https://raw.githubusercontent.com/frnnd95/agorahub-api/main/fotos/samuel.jpg",
-        "papel": "PO e dev"
+        "papel": "PO e dev mobile"
     }
 ]
